@@ -5,6 +5,8 @@ Install all the **dependencies**:
 ```python
 pip install -r requirements.txt
 ```
+Save all the firstname, lastname & companyname in the **input2.csv**
+
 Open the command prompt & run the python script:
 ``` python
 python main.py
